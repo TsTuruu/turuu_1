@@ -1,23 +1,21 @@
 [
   {
-    "question": "Flutter ямар програмчлалын хэл дээр бичигддэг вэ?",
+    "question": "Энэ ямар кино вэ",
+    "img-url":"https://raw.githubusercontent.com/TsTuruu/turuu_1/refs/heads/main/images%20(1).jpeg",
     "options": ["Java", "Dart", "Swift", "Kotlin"],
     "answer": "Dart"
   },
   {
-    "question": "Flutter ямар UI framework вэ?",
-    "options": ["React Native", "SwiftUI", "Jetpack Compose", "Flutter"],
-    "answer": "Flutter"
+    "question": "Энэ ямар кино вэ",
+    "img-url":"https://raw.githubusercontent.com/TsTuruu/turuu_1/refs/heads/main/images.jpeg",
+    "options": ["Java", "Dart", "Swift", "Kotlin"],
+    "answer": "Dart"
   },
   {
-    "question": "Flutter-д StatefulWidget болон StatelessWidget хоёрын ялгаа юу вэ?",
-    "options": [
-      "StatefulWidget-д төлөв өөрчлөгдөхгүй",
-      "StatelessWidget-д төлөв өөрчлөгдөхгүй",
-      "StatefulWidget-д төлөв хадгалагддаггүй",
-      "StatelessWidget нь setState() ашигладаг"
-    ],
-    "answer": "StatelessWidget-д төлөв өөрчлөгдөхгүй"
+    "question": "Энэ ямар кино вэ",
+    "img-url":"https://raw.githubusercontent.com/TsTuruu/turuu_1/refs/heads/main/n0ybibhJtQ5icDqTp8eRytcIHJx-scaled.jpeg",
+    "options": ["Java", "Dart", "Swift", "Kotlin"],
+    "answer": "Dart"
   }
   
 ]
